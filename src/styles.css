@@ -111,6 +111,10 @@ p {
     padding: 80px 20px;
   }
 
+  .about-section {
+    text-align: center;
+    padding: 0;
+  }
   .project-description {
     padding: 0;
     text-align: center;
